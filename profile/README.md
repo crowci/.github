@@ -1,5 +1,3 @@
-# Welcome to Crow CI
-
 **Crow CI** is a lightweight, community-driven CI application for self-hosted environments.
 
 ## Highlights
