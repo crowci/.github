@@ -2,8 +2,6 @@
 
 **Crow CI** is a lightweight, community-driven CI application for self-hosted environments.
 
----
-
 ## Highlights
 
 - **Open Source & Community Driven**
@@ -17,8 +15,6 @@
 - **Customization & Extensibility**:
   Extend or modify Crow CI to meet your unique needs through a growing collection of plugins.
 
----
-
 ## Getting Started
 
 1. **Install Crow**:
@@ -26,8 +22,6 @@
 
 2. **Explore the Docs**:
    The [documentation](https://crowci.dev) covers everything from pipeline syntax and plugin development to best practices and advanced use cases.
-
----
 
 ## Contributing
 
@@ -42,8 +36,6 @@ Check out our [Contributing Guidelines](https://github.com/crowci/crow/blob/mast
 
 3. **Pull Requests**:
    Ready to contribute code or documentation? Fork the repo, make your changes, and submit a [Pull Request](https://github.com/crowci/crow/pulls).
-
----
 
 ### License
 
