@@ -11,31 +11,14 @@
   Whether you’re just starting out with CI or you’re running large-scale pipelines, Crow’s straightforward configuration and extensibility make it the right fit.
 
 - **Customization & Extensibility**:
-  Extend or modify Crow CI to meet your unique needs through a growing collection of plugins.
+  Extend or modify Crow CI with a growing collection of easy-to-use and secure plugins.
 
 ## Getting Started
 
-1. **Install Crow**:
-   Check out our [Installation Guide](https://crowci.dev/installation) to learn how to get up and running quickly.
+👉️ [Documentation](https://crowci.dev)
 
-2. **Explore the Docs**:
-   The [documentation](https://crowci.dev) covers everything from pipeline syntax and plugin development to best practices and advanced use cases.
-
-## Contributing
-
-We welcome contributions of all kinds—bug reports, feature requests, code contributions, and everything in between.
-Check out our [Contributing Guidelines](https://github.com/crowci/crow/blob/master/CONTRIBUTING.md) to get started.
-
-1. **Discuss Ideas**:
-   Have an idea or a suggestion? Please open a [Discussion](https://github.com/crowci/crow/discussions) or jump in on existing conversations.
-
-2. **Report Issues**:
-   Found a bug? Create an [Issue](https://github.com/crowci/crow/issues) to let us know.
-
-3. **Pull Requests**:
-   Ready to contribute code or documentation? Fork the repo, make your changes, and submit a [Pull Request](https://github.com/crowci/crow/pulls).
+👉️ [Images](https://github.com/orgs/crowci/packages)
 
 ### License
 
 Crow CI is released under the [Apache License 2.0](https://github.com/crowci/crow/blob/master/LICENSE).
-Enjoy the freedom to use, modify, and distribute Crow as you see fit.
