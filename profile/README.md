@@ -1,3 +1,6 @@
+## Development is happening on Codeberg 👉️ https://codeberg.org/crowci
+
+
 **Crow CI** is a lightweight, community-driven CI application for self-hosted environments.
 
 ## Highlights
